@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うしろめたい",
+  "base_artist": "雨良",
+  "createdAt": "2026-02-12T10:11:13.940168Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うしろめたい (feat. 重音テト)",
+      "artist": "雨良",
+      "has_synced": false,
+      "path": "select/pl_01_うしろめたい_(feat._重音テト)_雨良.txt"
+    }
+  ]
+}
